@@ -1,4 +1,3 @@
-// @flow strict
 import Link from "next/link";
 
 function Navbar() {
@@ -75,3 +74,4 @@ function Navbar() {
 }
 
 export default Navbar;
+

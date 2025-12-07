@@ -1,5 +1,5 @@
 export const contactsData = {
-    email: 'sudhanabirami007@gmail.com',
+    email: 'hariharasudhans@gmail.com',
     phone: '+91 9342614537',
     address: 'SS.Nagar, Kovilpatti, Thoothukudi, TamilNadu',
     github: 'https://github.com/HariHara-sn/',

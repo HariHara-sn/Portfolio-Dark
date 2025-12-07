@@ -14,6 +14,9 @@ export const metadata = {
   title: "HariHaraSudhan - Software Developer",
   description:
     "This is the portfolio of Hari Hara Sudhan. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+  icons: {
+    icon: "https://media.licdn.com/dms/image/v2/D5603AQHy-82X3KZRhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711210204962?e=1766620800&v=beta&t=6LUR0jRN7Vsj3_f4aQMO-lLfIRH19LbP7hHW3YF1_As", // <-- your icon file in public/
+  },
 };
 
 export default function RootLayout({ children }) {
