@@ -16,8 +16,8 @@ export const metadata = {
   description:
     "This is the portfolio of Hari Hara Sudhan. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
   icons: {
-    // icon : "https://media.licdn.com/dms/image/v2/D5603AQHy-82X3KZRhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711210204962?e=1771459200&v=beta&t=-fXz5FbBpW2KTQv9Rf2TvsXLaw6SXutkc-bzZh3EWi4",
-    icon : "/logo/image.png"
+    icon : "https://media.licdn.com/dms/image/v2/D5603AQHy-82X3KZRhw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1711210204962?e=1771459200&v=beta&t=-fXz5FbBpW2KTQv9Rf2TvsXLaw6SXutkc-bzZh3EWi4",
+    // icon : "/logo/image.png"
   },
 };
 
